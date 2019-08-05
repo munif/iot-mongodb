@@ -14,4 +14,5 @@ Repository for IoT project with MongoDB Database
 ## Referensi
 
 1. [MongoDB Documentation](https://docs.mongodb.com/)
-2. [MongoDB Driver on PHP](https://www.php.net/set.mongodb)
+2. [MongoDB Tutorial](https://docs.mongodb.com/manual/tutorial/)
+3. [MongoDB Driver on PHP](https://www.php.net/set.mongodb)
